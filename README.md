@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/ateftaha19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ateftaha19" height="30" width="40" /></a>
 <a href="https://fb.com/atef.taha.5201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atef taha sowar" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/atef-taha-sowar" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="atef taha sowar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atef-taha-sowar" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="atef taha sowar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
